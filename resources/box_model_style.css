@@ -1,0 +1,54 @@
+/* 
+Accent Colors:
+Accent 1: #004080 Dark Blue 
+Accent 2: #FF8000 Vivid Orange
+*/
+
+body {
+  padding: 20px;
+  font-size: 16px;
+}
+
+h1, h2, h3 {
+  color: #004080;
+}
+
+h1 {
+  text-align: center;
+}
+
+th, td {
+  border: 2px solid #FF8000;
+  padding: 10px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+a {
+  color: #004080;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FF8000;
+}
+
+.text-content {
+  background-color: #004080;
+  color: white;
+  width: 400px;
+  padding: 15px;
+  border: 3px dashed #FF8000;
+  margin: 20px;
+}
+
+.image-container {
+  background-color: #004080;
+  width: 646px;
+  padding: 20px;
+  border: 5px solid #FF8000;
+  margin: 30px;
+}
