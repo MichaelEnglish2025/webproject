@@ -1,0 +1,22 @@
+table, th, td {
+    border: 1px solid green;
+    padding: 10px;
+}
+
+body {
+background-color: darkblue
+}
+
+h1, h2, p, table, ul {
+    color:white;
+}
+
+a {
+    color: green;
+    font-weight: bold;
+   }
+   
+   a:hover {
+    color:lightgreen;
+   }
+
